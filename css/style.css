@@ -1,5 +1,5 @@
 body {
-    background-color: #b53b3b;
+    background-color:white;
     color: #333;
 }
 .parentdiv{
@@ -28,7 +28,7 @@ body {
 .backid{
     width: 54mm;
     height: 86mm;
-    background-color: whitesmoke;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 50px;
@@ -41,7 +41,7 @@ body {
     height: 10mm;
     margin-left: auto;
     margin-right: auto;
-    background-color: crimson;
+    background-color:white;
     margin-top: 10px;
     display: flex;
     justify-content: space-between;
@@ -52,7 +52,7 @@ body {
 .gslogo{
     width: 10mm;
     height: 10mm;
-    background-color:whitesmoke;
+    background-color:white;
     
     
 
@@ -111,29 +111,59 @@ body {
 }
 .div3{
     width: 50mm;
-    height: 15mm;
+    height: 5m;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(34, 205, 51);
+    background-color:white;
     margin-top: 10px;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
 
 }
 .div4{
     width: 50mm;
-    height: 15mm;
+    height: 20mm;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(255, 0, 191);
+    background-color: rgb(119, 123, 159);
     margin-top: 10px;
-
+    border-radius: 5px;
+    font-size:10px;
+    word-spacing: 5PX;
+    display: flex;
+}
+.right{
+    width: 20mm;
+    height: 20mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(194, 198, 231, 0.955);
+    border-radius: 5px 0px 0px 5px;
+    font-weight:bold;
+    text-align: ;
+  
+}
+.left{
+    width: 30mm;
+    height: 20mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(194, 198, 231, 0.955);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0px 5px 5px 0px;
 }
 .div5{
     width: 50mm;
-    height: 10mm;
+    height: 8mm;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(229, 255, 0);
-    margin-top: 10px;
+    background-color:white;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+
+
 
 }
 .div21{
@@ -141,7 +171,7 @@ body {
     height: 15mm;
     margin-left: auto;
     margin-right: auto;
-    background-color:whitesmoke;
+    background-color:white;
     margin-top: 10px;
     font-size: 12px ;
     text-align:center;
@@ -152,7 +182,7 @@ body {
     height: 40mm;
     margin-left: auto;
     margin-right: auto;
-    background-color:whitesmoke;
+    background-color:white;
     margin-top: 10px;
 }
 .div22 img{
@@ -166,7 +196,7 @@ body {
     height: 15mm;
     margin-left: auto;
     margin-right: auto;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: 10px;
     border-radius: 100%;
     opacity: 0.3;
@@ -181,7 +211,7 @@ body {
 .div24{
     width: 51mm;
     height: 5mm;
-    background-color: whitesmoke;
+    background-color:white;
     font-size: 12px;
     margin-bottom: 15px;
     text-align: center;
