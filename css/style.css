@@ -17,7 +17,7 @@ body {
 .frontid{
     width: 54mm;
     height: 86mm;
-    background-color:;
+    background-color:white;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 30px;
@@ -38,7 +38,7 @@ body {
 }
 .div1{
     width: 50mm;
-    height: 15mm;
+    height: 10mm;
     margin-left: auto;
     margin-right: auto;
     background-color: crimson;
@@ -54,6 +54,7 @@ body {
     height: 10mm;
     background-color:whitesmoke;
     
+    
 
 }
 .gslogo img{
@@ -64,27 +65,49 @@ body {
     opacity: 0.3;
 }
 .writeup{
-    width: 20mm;
-    height: 15mm;
-    background-color: darkorange;
+    width: 28mm;
+    height: 10mm;
+    background-color: white;
+    font-size: 6px;
+    word-spacing: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    line-height: 1.5; 
 
 }
 .unilogo{
-    width: 15mm;
-    height: 15mm;
+    width: 10mm;
+    height: 10mm;
     background-color: aqua;
-
-    
+   
 }
 
+.unilogo img{
+    width: 10mm;
+    height: 10mm;
+    object-fit: cover;
+
+
+}
+
+
 .div2{
-    width: 50mm;
-    height: 15mm;
+    width: 28mm;
+    height: 28mm;
     margin-left: auto;
     margin-right: auto;
     background-color: blue;
     margin-top: 10px;
+    border-radius: 100%;
 
+}
+.div2 img{
+    width: 28mm;
+    height: 28mm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
 }
 .div3{
     width: 50mm;
