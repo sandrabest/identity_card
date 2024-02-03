@@ -1,0 +1,166 @@
+body {
+    background-color: #b53b3b;
+    color: #333;
+}
+.parentdiv{
+    width: 500px;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.frontid{
+    width: 54mm;
+    height: 86mm;
+    background-color:;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    box-sizing: border-box; 
+    margin-top: 40px; 
+    border-radius: 10px;
+}
+.backid{
+    width: 54mm;
+    height: 86mm;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    box-sizing: border-box; 
+    margin-top: 20px; 
+    border-radius: 10px;
+}
+.div1{
+    width: 50mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: crimson;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.gslogo{
+    width: 10mm;
+    height: 10mm;
+    background-color:whitesmoke;
+    
+
+}
+.gslogo img{
+    width: 10mm;
+    height: 10mm;
+    object-fit: cover;
+    border-radius: 100%;
+    opacity: 0.3;
+}
+.writeup{
+    width: 20mm;
+    height: 15mm;
+    background-color: darkorange;
+
+}
+.unilogo{
+    width: 15mm;
+    height: 15mm;
+    background-color: aqua;
+
+    
+}
+
+.div2{
+    width: 50mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    margin-top: 10px;
+
+}
+.div3{
+    width: 50mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(34, 205, 51);
+    margin-top: 10px;
+
+}
+.div4{
+    width: 50mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 0, 191);
+    margin-top: 10px;
+
+}
+.div5{
+    width: 50mm;
+    height: 10mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(229, 255, 0);
+    margin-top: 10px;
+
+}
+.div21{
+    width: 51mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:whitesmoke;
+    margin-top: 10px;
+    font-size: 12px ;
+    text-align:center;
+    
+}
+.div22{
+    width: 40mm;
+    height: 40mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:whitesmoke;
+    margin-top: 10px;
+}
+.div22 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.div23{
+    width: 15mm;
+    height: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    border-radius: 100%;
+    opacity: 0.3;
+}
+.div23 img{
+    width: 15mm;
+    height: 15mm;
+    object-fit: cover;
+    border-radius: 100%;
+    opacity: 0.3;
+}
+.div24{
+    width: 51mm;
+    height: 5mm;
+    background-color: whitesmoke;
+    font-size: 12px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
